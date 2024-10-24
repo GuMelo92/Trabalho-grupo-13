@@ -1,0 +1,51 @@
+[
+    {
+        "nome": "Agachamento",
+        "musculos": [
+            "quadr\u00c3\u00adceps",
+            "gl\u00c3\u00bateos",
+            "isquiotibiais"
+        ],
+        "equipamentos": [
+            "barra"
+        ],
+        "series": 3,
+        "repeticoes": 12
+    },
+    {
+        "nome": "Supino horizontal",
+        "musculos": [
+            "delt\u00c3\u00b3ide anterior",
+            "peitoral maior",
+            "tr\u00c3\u00adceps braquial"
+        ],
+        "equipamentos": [
+            "barra"
+        ],
+        "series": 3,
+        "repeticoes": 15
+    },
+    {
+        "nome": "scot",
+        "musculos": [
+            "biceps",
+            " triceps"
+        ],
+        "equipamentos": [
+            "scot"
+        ],
+        "serie": 15,
+        "repeticoes": 3
+    },
+    {
+        "nome": "as",
+        "musculos": [
+            ""
+        ],
+        "equipamentos": [
+            "as"
+        ],
+        "serie": 3,
+        "repeticoes": 3
+    }
+]
